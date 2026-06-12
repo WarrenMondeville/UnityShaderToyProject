@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 823541bf4a2e70c438d076026404dc0d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - material: {instanceID: 0}
+  - bufferMaterial: {instanceID: 0}
+  - bufferBMaterial: {instanceID: 0}
+  - bufferCMaterial: {instanceID: 0}
+  - bufferDMaterial: {instanceID: 0}
+  - _bufferA: {fileID: 8400000, guid: 5ed4b7e18f4380041b7be2b660db2dd7, type: 2}
+  - _bufferB: {fileID: 8400000, guid: 8dacea9848ae57e48886dada57780bbe, type: 2}
+  - _bufferC: {fileID: 8400000, guid: a39c41fba850523478f4f33fbafa06e1, type: 2}
+  - _bufferD: {fileID: 8400000, guid: 831bee6e1140556499ee8da4b5716a57, type: 2}
+  - _tempRenderTexture: {fileID: 8400000, guid: 15d181903fb919f40bc1b0b10319d938,
+      type: 2}
+  - bufferAChannel0: {instanceID: 0}
+  - bufferAChannel1: {instanceID: 0}
+  - bufferAChannel2: {instanceID: 0}
+  - bufferAChannel3: {instanceID: 0}
+  - bufferBChannel0: {instanceID: 0}
+  - bufferBChannel1: {instanceID: 0}
+  - bufferBChannel2: {instanceID: 0}
+  - bufferBChannel3: {instanceID: 0}
+  - bufferCChannel0: {instanceID: 0}
+  - bufferCChannel1: {instanceID: 0}
+  - bufferCChannel2: {instanceID: 0}
+  - bufferCChannel3: {instanceID: 0}
+  - bufferDChannel0: {instanceID: 0}
+  - bufferDChannel1: {instanceID: 0}
+  - bufferDChannel2: {instanceID: 0}
+  - bufferDChannel3: {instanceID: 0}
+  - channel0: {instanceID: 0}
+  - channel1: {instanceID: 0}
+  - channel2: {instanceID: 0}
+  - channel3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

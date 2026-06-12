@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GiraffeShader_ChemicalWarp_Move_Color
+  m_Shader: {fileID: 4800000, guid: 42b83c939f1087546bedbda64524f585, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: d232b8cad8e51964ea61b2fc32d0e612, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 98175a97409e50e4fa9cc465e5541615, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Distortion: 820
+    - _LevelOfWaterOffsetScale: -0
+    - _LevelOfWaterX: 1.73
+    - _LevelOfWaterY: 0.18
+    - _LevelOfWaterZ: 1.07
+    - _RefractAmount: 0.26
+    - _WaveSpeed: 0.36
+    m_Colors:
+    - _AdditionColor: {r: 1, g: 0.11814082, b: 0, a: 1}
